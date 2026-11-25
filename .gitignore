@@ -1,0 +1,8 @@
+*.mp4
+*.mov
+*.wav
+render_log*.txt
+test/
+frames/
+renders/
+node_modules/
